@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotilnRetrofitRecyclerView</string>
+    <string name="api_key">12773a9e9b85b21cddb723222c0b145a</string>
+    <string name="base_path_poster">https://image.tmdb.org/t/p/w500</string>
+</resources>
